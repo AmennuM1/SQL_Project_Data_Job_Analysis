@@ -67,7 +67,7 @@ ORDER BY
 LIMIT 10;
 ```
 **Results:**
-![Top Paying Roles](assets\1_top_paying_jobs_img.png)
+![Top Paying Roles](/assets/1_top_paying_jobs_img.png)
 *Figure 1. Horizontal bar chart visualizing the average annual salary of the top 10 highest-paying remote Data Analyst jobs in 2023, AI generated from the SQL query results.*
 
 **Insights:**
