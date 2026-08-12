@@ -29,7 +29,7 @@ The analysis focuses on remote Data Analyst opportunities and answers five caree
 
 ## Dataset
 
-The project uses a real-world dataset of more than **785,000 job postings** collected during 2023 and provided by [Luke Barousse](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis). The postings were gathered through Google Job Search from sources including LinkedIn, Indeed, company career pages, and other job boards.
+The project uses a real-world dataset of more than **785,000 job postings** collected during 2023 and provided by [Luke Barousse](https://www.lukebarousse.com/). The postings were gathered through Google Job Search from sources including LinkedIn, Indeed, company career pages, and other job boards.
 
 The data was cleaned and organized into four related PostgreSQL tables:
 
