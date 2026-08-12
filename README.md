@@ -81,7 +81,7 @@ Advanced analytical expertise becomes more valuable when paired with leadership,
 
 **[View the SQL query](./project_sql/2_top_paying_job_skills.sql)**
 
-![Skills Required for Top-Paying Jobs](./assets/2_top_paying_skills_%20image.png)
+![Skills Required for Top-Paying Jobs](./assets/2_top_paying_skills_image.png.png)
 
 #### Findings
 
